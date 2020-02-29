@@ -6,7 +6,7 @@
 
   Test your application using Scala - ide using sample data.
 
-  ![](data\scala-ide01.png)
+  ![](data/scala-ide01.png)
 
   
 
